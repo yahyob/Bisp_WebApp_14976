@@ -1,0 +1,17 @@
+.min-hdr{
+    border-radius: 50%;
+    background: #FAE01A;
+    width: 323px;
+    height: 321px;
+    padding-top: 120px;
+}
+.min-hdr h3{
+    color: #018FA3;
+    font-size: 55px;
+    font-weight: bold;
+}
+@media only screen and (min-width: 1200px){
+    .min-finder{
+        margin-top: 140px;
+    }
+}

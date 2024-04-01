@@ -1,0 +1,10 @@
+.ftr-item{
+    height: 540px;
+    background: #018FA3;
+    border-radius: 20px;
+}
+.ftr-item p{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}

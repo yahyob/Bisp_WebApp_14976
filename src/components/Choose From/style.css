@@ -1,0 +1,102 @@
+.min-hdr-bc{
+    width: 378px;
+    height: 500px;
+    padding: 0;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 0px 5px 5px rgb(247, 246, 246),
+                0px 0px 10px 10px rgb(247, 246, 246),
+                0px 0px 20px 20px rgb(247, 246, 246);
+}
+.min-hdr-bc1{
+    width: 378px;
+    height: 500px;
+    padding: 0;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 0px 5px 5px rgb(247, 246, 246),
+                0px 0px 10px 10px rgb(247, 246, 246),
+                0px 0px 20px 20px rgb(247, 246, 246);
+}
+.min-hdr-bc2{
+    width: 378px;
+    height: 500px;
+    padding: 0;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 0px 5px 5px rgb(247, 246, 246),
+                0px 0px 10px 10px rgb(247, 246, 246),
+                0px 0px 20px 20px rgb(247, 246, 246);
+}
+.min-nav{
+    width: 378px;
+    height: 80px;
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid black; 
+    margin: 0;  
+    background: #018FA3;
+    border: none;
+    text-align: center;
+    padding: 5px;
+}
+.min-nav h3{
+    color: white;
+    font-size: 30px;
+}
+.min-nav1{
+    width: 378px;
+    height: 80px;
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid black; 
+    margin: 0;  
+    background: #955EEA;
+    border: none;
+    text-align: center;
+    padding: 5px;
+}
+.min-nav1 h3{
+    color: white;
+    font-size: 30px;
+}
+.min-nav2{
+    width: 378px;
+    height: 80px;
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid black; 
+    margin: 0;  
+    background: #4ECA30;
+    border: none;
+    text-align: center;
+    padding: 5px;
+}
+.min-nav2 h3{
+    color: white;
+    font-size: 30px;
+}
+.min-hdr-bc button{
+    width: 200px;
+    height: 58px;
+    border-radius: 50px;
+    background: #018FA3;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.min-hdr-bc1 button{
+    width: 200px;
+    height: 58px;
+    border-radius: 50px;
+    background: #955EEA;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.min-hdr-bc2 button{
+    width: 200px;
+    height: 58px;
+    border-radius: 50px;
+    background: #4ECA30;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
